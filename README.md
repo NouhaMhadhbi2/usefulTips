@@ -22,3 +22,7 @@ https://getbootstrap.com/docs/4.0/layout/grid/
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+
+
+```
+https://stackoverflow.com/questions/42718041/how-to-create-a-search-with-or-clause-using-elasticsearch
