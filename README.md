@@ -26,3 +26,6 @@ https://getbootstrap.com/docs/4.0/layout/grid/
 
 ```
 https://stackoverflow.com/questions/42718041/how-to-create-a-search-with-or-clause-using-elasticsearch
+```
+https://shekhargulati.com/2020/09/22/sending-outlook-calendar-invite-using-java-mail-api/
+https://gist.github.com/Silambarasann/b07b4238a0f4c9e26d3e
